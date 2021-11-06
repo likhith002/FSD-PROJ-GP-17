@@ -10,7 +10,7 @@ function Nav() {
     <div className="nav">
       <p>Mobile</p>
       <p>Desktop</p>
-      <p>Tv</p>
+      <p>Telivision</p>
       <p>Air Conditioners</p>
       <div className="nav_search">
         <Search />
