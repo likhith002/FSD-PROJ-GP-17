@@ -1,0 +1,138 @@
+{
+    "Mobile":[
+    {
+        "Name":"Samsung Galaxy Z Fold2 5G",
+        "Availability":true,
+        "Brand":"Samsung",
+        "Price":25999.00,"Priceid":"R2",
+        "Memory":"16GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"5G"
+    },
+    {
+        "Name":"Samsung Galaxy S20 FE",
+        "Availability":false,
+        "Brand":"Samsung",
+        "Price":15999.00,"Priceid":"R1",
+        "Memory":"16GB",
+        "RAM":"4GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Samsung Galaxy M32 5G",
+        "Availability":true,
+        "Brand":"Samsung",
+        "Price":199999.00,"Priceid":"R3",
+        "Memory":"32GB",
+        "RAM":"4GB",
+        "NetworkConnectivity":"5G"
+    },
+    {
+        "Name":"Samsung Galaxy Note20",
+        "Availability":true,
+        "Brand":"Samsung",
+        "Price":45999.00,"Priceid":"R3",
+        "Memory":"16GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Samsung Galaxy AO3",
+        "Availability":true,
+        "Brand":"Samsung",
+        "Price":25999.00,"Priceid":"R2",
+        "Memory":"64GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Oppo Find X",
+        "Availability":true,
+        "Brand":"Oppo",
+        "Price":25999.00,"Priceid":"R2",
+        "Memory":"16GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"5G"
+    },
+    {
+        "Name":"Oppo Find X2",
+        "Availability":false,
+        "Brand":"Oppo",
+        "Price":15999.00,"Priceid":"R1",
+        "Memory":"16GB",
+        "RAM":"4GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Oppo Reno6 5G",
+        "Availability":true,
+        "Brand":"Oppo",
+        "Price":199999.00,"Priceid":"R3",
+        "Memory":"32GB",
+        "RAM":"4GB",
+        "NetworkConnectivity":"5G"
+    },
+    {
+        "Name":"Oppo Reno 3",
+        "Availability":true,
+        "Brand":"Oppo",
+        "Price":45999.00,"Priceid":"R3",
+        "Memory":"32GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Oppo A94",
+        "Availability":true,
+        "Brand":"Oppo",
+        "Price":25999.00,"Priceid":"R2",
+        "Memory":"64GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Vivo Y3s",
+        "Availability":true,
+        "Brand":"Vivo",
+        "Price":25999.00,"Priceid":"R2",
+        "Memory":"16GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"5G"
+    },
+    {
+        "Name":"Vivo V21",
+        "Availability":false,
+        "Brand":"Vivo",
+        "Price":15999.00,"Priceid":"R1",
+        "Memory":"16GB",
+        "RAM":"4GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Vivo Y20T",
+        "Availability":true,
+        "Brand":"Vivo",
+        "Price":199999.00,"Priceid":"R3",
+        "Memory":"32GB",
+        "RAM":"4GB",
+        "NetworkConnectivity":"5G"
+    },
+    {
+        "Name":"Vivo X70 Pro",
+        "Availability":true,
+        "Brand":"Vivo",
+        "Price":45999.00,"Priceid":"R2",
+        "Memory":"32GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"4G"
+    },
+    {
+        "Name":"Vivo X70 Pro+",
+        "Availability":true,
+        "Brand":"Vivo",
+        "Price":25999.00,"Priceid":"R2",
+        "Memory":"64GB",
+        "RAM":"8GB",
+        "NetworkConnectivity":"4G"
+    }]
+    }
