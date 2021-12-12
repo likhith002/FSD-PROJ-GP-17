@@ -1,0 +1,21 @@
+#lbox1{ 
+    text-align: left;
+    border-style: solid ;
+    border-width: 0.1px;
+    border-color: lightgrey;
+    border-bottom: 0.05px;
+}
+
+#lbox2{ 
+    text-align: left;
+    border-style: solid ;
+    border-width: 0.1px;
+    border-color: lightgrey;
+    border-bottom: 1px;
+}
+
+input[type="checkbox"] {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+

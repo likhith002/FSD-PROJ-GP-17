@@ -1,5 +1,6 @@
 import React from "react";
 import "./Nav.css";
+import {Link} from "react-router-dom";
 import ShoppingBasketIcon from "@material-ui/icons/ShoppingBasket";
 import FavoriteIcon from "@material-ui/icons/FavoriteBorder";
 import AccountCircleIcon from "@material-ui/icons/AccountCircle";
@@ -8,7 +9,7 @@ import Search from "@material-ui/icons/Search";
 function Nav() {
   return (
     <div className="nav">
-      <p>Mobile</p>
+      <p><Link to = "/Mobile1">Mobile</Link></p>
       <p>Desktop</p>
       <p>Tv</p>
       <p>Air Conditioners</p>
