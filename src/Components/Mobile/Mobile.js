@@ -1,7 +1,10 @@
 import React from "react";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.min.js';
+import { Dropdown } from 'react-bootstrap';
+import DropdownButton from 'react-bootstrap/DropdownButton'
 import JSONDATA from './data.json';
 import "./style.css";
-import "bootstrap/dist/css/bootstrap.min.css";
 import { useState, useRef } from "react";
 
 function Mobile() {
@@ -264,7 +267,14 @@ function Mobile() {
           </div>
         </div>
         
-        <div className="col-10" id="right" style={{ marginTop: '50px' ,marginLeft: '-10px' }}>
+        <div className="col-10" id="right" style={{ marginLeft: '-10px' }}>
+        <div style={{ marginBottom: '10px', marginLeft: '900px' }}>
+          <DropdownButton id="dropdown-basic-button" title="Sort By the Following">
+          <Dropdown.Item href="#/action-1">Recommended</Dropdown.Item>
+          <Dropdown.Item href="#/action-2">RAM</Dropdown.Item>
+          <Dropdown.Item href="#/action-3">Price</Dropdown.Item>
+          </DropdownButton>
+        </div>
           <div class="row">
             {
               arrayF.map((val,key)=>{
@@ -277,7 +287,7 @@ function Mobile() {
                             Price : {val.Price} <br/>
                             Memory : {val.Memory}
                           </p>
-                          <a href="#" class="btn btn-primary">
+                          <a href="https://www.youtube.com/" class="btn btn-primary">
                             Add to wish list
                           </a>
                         </div>

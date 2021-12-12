@@ -9,7 +9,7 @@ import Search from "@material-ui/icons/Search";
 function Nav() {
   return (
     <div className="nav">
-      <p><Link to = "/Mobile">Mobile</Link></p>
+      <p><Link to = "/Mobile1">Mobile</Link></p>
       <p>Desktop</p>
       <p>Tv</p>
       <p>Air Conditioners</p>
